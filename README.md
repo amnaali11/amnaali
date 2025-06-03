@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-- 👩‍🎓 I’m a .NET Developer currently studying in the **Faculty of Engineering**, Computer and Communication Department at **Benha University** (Shobra).  
+- 👩‍🎓 I’m a .NET Developer currently studying in the **Faculty of Engineering**, Computer and Communication Department at **Benha University** .  
 - 💼 Skilled in `C#`, `.NET (MVC & API)`, `Entity Framework`, `SQL Server`, `LINQ`, and cloud platforms like `Azure`.  
 - 💻 I use software as a solution for real-world problems — always writing clean, scalable code.  
 - 📚 Always eager to learn new technologies and enhance my development & communication skills.  
