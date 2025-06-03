@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/amna-ali-2372752a4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://codeforces.com/profile/amnaali11" target="_blank">
+  <a href="https://codeforces.com/profile/amnaali123" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="mailto:amnaabdelwahab77@gmail.com">
