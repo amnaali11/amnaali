@@ -50,13 +50,7 @@
 
 ---
 
-## 📈 Contributions
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amnaali11&label=Total%20Contributions&color=0e75b6&style=flat-square" alt="Total Contributions"/>
-</p>
 
 
----
 
 > 💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
