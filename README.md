@@ -50,11 +50,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amnaali11&show_icons=true&theme=radical" alt="amnaali11 stats"/>
+  <img src="https://komarev.com/ghpvc/?username=amnaali11&label=Total%20Contributions&color=0e75b6&style=flat-square" alt="Total Contributions"/>
 </p>
+
 
 ---
 
