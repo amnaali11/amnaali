@@ -10,7 +10,7 @@
 - 💻 I use software as a solution for real-world problems — always writing clean, scalable code.  
 - 📚 Always eager to learn new technologies and enhance my development & communication skills.  
 - 📄 Want my resume? Just [email me](mailto:amnaabdelwahab77@gmail.com?subject=Requesting%20your%20Resume).  
-- 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/amna-ali-2372752a4) and [Codeforces](https://codeforces.com/profile/amnaali123) profiles.
+- 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/amna-ali-2372752a4) and [Codeforces](https://codeforces.com/profile/amnaali123).
 
 ---
 
